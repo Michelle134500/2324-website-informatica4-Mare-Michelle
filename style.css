@@ -40,12 +40,13 @@ nav {
    height: 380px; 
    font-family: Bitter;
    font-weight: 600;
-   Font-Weight: 500;
-   Font-size: p 15pt;
+   font-Weight: 500;
+   font-size: p 15pt;
    background-color: #658B6F;
    color: #ffffff;
    margin: 20px 10px 20px 10px; 
    padding: 10px; 
+   float: right;
 }
 
 #bigimage img {
@@ -63,5 +64,4 @@ background-color: #3e9194;
 color: #ffffff; 
 margin: 20px 10px 20px 10px;
 padding: 10px;
-float: right;
  }

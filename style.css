@@ -17,3 +17,15 @@
 /************************* YOUR SETTINGS *************************/
 
 /* add your css here, feel free to use comments and order them logically for better readability */
+
+header {
+width: 1000px ;
+height: 100px ;
+font-family: Bitter ;
+font-Weight: 600;
+font-size: H1 45pt;
+background-color: #24565d;
+color: #ffffff;
+margin: 10px 10px 20px 10px;
+padding 10px;
+}

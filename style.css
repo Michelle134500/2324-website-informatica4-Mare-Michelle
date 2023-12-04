@@ -27,7 +27,7 @@ header {
 width: 1000px ;
 height: 100px ;
 font-family: Bitter ;
-font-Weight: 600;
+font-weight: 600;
 font-size: H1 45pt;
 background-color: #24565d;
 color: #ffffff;
@@ -40,4 +40,14 @@ padding: 10px;
    margin: 20px 10px 20px 10px;
  }
 
- 
+ .samenvatting_homepage {
+width: 1000px; 
+height: 285px; 
+font-family: Bitter;
+font-weight: 500; 
+font-size:  17pt; 
+background-color: #3e9194; 
+color: #ffffff; 
+margin: 20px 10px 20px 10px;
+padding: 10px;
+ }

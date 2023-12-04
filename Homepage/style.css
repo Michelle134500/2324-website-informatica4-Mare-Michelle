@@ -67,13 +67,13 @@ padding: 10px;
  }
 
  .koptitel {
- Width: 1000px; 
-Height: 75px; 
-Font-type: Bitter 
-Font-Weight: 600; 
-Font-size: p 17pt; 
-Background-color: #24565d; 
-Color: #ffffff; 
-Margin: 20px 10px 20px 10px; 
-Padding: 10px; 
+width: 1000px; 
+height: 75px; 
+font-family: Bitter; 
+font-weight: 600; 
+font-size: 17pt; 
+background-color: #24565d; 
+color: #ffffff; 
+margin: 20px 10px 20px 10px; 
+padding: 10px; 
 }

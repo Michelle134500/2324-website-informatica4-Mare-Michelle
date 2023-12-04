@@ -18,6 +18,11 @@
 
 /* add your css here, feel free to use comments and order them logically for better readability */
 
+body {
+   background-color:#f4f1de;
+     
+   }
+   
 header {
 width: 1000px ;
 height: 100px ;

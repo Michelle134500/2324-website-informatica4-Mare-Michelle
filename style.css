@@ -111,6 +111,11 @@ padding: 10px;
    box-sizing: border-box;
 }
    
+.clearfix::after {
+   display: table;
+   clear: both;
+}
+
 footer {
   clear: both;
   width: 1000px; 

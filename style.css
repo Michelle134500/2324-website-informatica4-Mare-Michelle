@@ -96,8 +96,6 @@ padding: 10px;
    margin: 20px 10px 20px 10px; 
    }
 
-  
-
 .deelkopje_nav {
    width: 240px; 
    height: 187px; 
@@ -110,4 +108,15 @@ padding: 10px;
    padding: 10px;
    float: left;
 }
-   
+   footer {
+      width: 1000px; 
+height: 75px; 
+font-family: Bitter; 
+font-weight: 500; 
+font-size: p 17pt; 
+background-color: #3e9194; 
+color: #ffffff; 
+margin: 20px 10px 10px 10px; 
+padding: 10px;
+
+   }

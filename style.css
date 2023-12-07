@@ -91,6 +91,10 @@ padding: 10px;
    padding: 10px;
 }
 
+.clear {
+   clear: both; 
+}
+
 .plaatjes_klein img {
    width: 328px; 
    float: left;

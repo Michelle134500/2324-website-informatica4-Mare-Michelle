@@ -97,7 +97,7 @@ padding: 10px;
    }
 
 .deelkopje_nav {
-   clear: both;
+   clear: left;
    width: 240px; 
    height: 187px; 
    font-family: Bitter;

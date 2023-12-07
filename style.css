@@ -76,7 +76,8 @@ padding: 10px;
    background-color: #24565d; 
    color: #ffffff; 
    margin: 20px 10px 20px 10px; 
-   padding: 10px; 
+   padding: 10px;
+   clear: both; 
 }
 
 .kop_samenvatting {
@@ -89,10 +90,7 @@ padding: 10px;
    color: #ffffff; 
    margin: 20px 10px 20px 10px; 
    padding: 10px;
-}
-
-.clear {
-   clear: both; 
+   clear: both;
 }
 
 .plaatjes_klein img {

@@ -97,6 +97,7 @@ padding: 10px;
    }
 
 .deelkopje_nav {
+   clear: both;
    width: 240px; 
    height: 187px; 
    font-family: Bitter;
@@ -109,6 +110,7 @@ padding: 10px;
    float: left;
 }
    footer {
+clear: both;
       width: 1000px; 
 height: 75px; 
 font-family: Bitter; 

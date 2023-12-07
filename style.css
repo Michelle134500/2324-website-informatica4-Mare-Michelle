@@ -47,10 +47,11 @@ padding: 10px;
    margin: 20px 10px 20px 10px; 
    padding: 10px; 
    float: right;
+   text-align: center;
 }
 
 #bigimage img {
-   width: 1000px;
+   width: 1020px;
    margin: 20px 10px 20px 10px;
    box-sizing: border-box;
  }
@@ -94,7 +95,7 @@ padding: 10px;
 }
 
 .plaatjes_klein img {
-   width: 328px; 
+   width: 326.5px; 
    float: left;
    margin: 20px 10px 0px 10px; 
    box-sizing: border-box;
@@ -105,14 +106,14 @@ padding: 10px;
 }
 
 .deelkopje_nav {
-   width: 328px; 
+   width: 326.5px; 
    height: 187px; 
    font-family: Bitter;
    font-Weight: 500; 
    font-size: 13pt; 
    background-color: #658B6F; 
    color: #ffffff; 
-   margin: 0px 10px 20px 10px; 
+   margin: 0px 10px 60px 10px; 
    padding: 10px;
    float: left;
    box-sizing: border-box;

@@ -98,5 +98,15 @@ padding: 10px;
    float: right;
    }
 
-.
+.deelkopje_nav {
+   width: 240px; 
+   height: 187px; 
+   font-family: Bitter;
+   font-Weight: 500; 
+   font-size: 13pt; 
+   background-color: #658B6F; 
+   color: #ffffff; 
+   margin: 20px 20px 20px 10px; 
+   padding: 10px;
+}
    

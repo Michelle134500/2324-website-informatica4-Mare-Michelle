@@ -98,9 +98,9 @@ padding: 10px;
    box-sizing: border-box;
    }
 
-   .clear {
+.clear {
       clear: both; 
-   }
+  }
 
 .deelkopje_nav {
    width: 240px; 

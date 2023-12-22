@@ -119,6 +119,12 @@ padding: 10px;
    box-sizing: border-box;
 }
 
+.deelkopje_nav a {
+   text-decoration: none;
+   color: #ffffff;
+   font-weight: bold;
+}
+
 footer {
   clear: both;
   width: 1000px; 

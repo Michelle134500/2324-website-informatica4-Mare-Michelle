@@ -52,6 +52,7 @@ padding: 10px;
 
 .inhoudsopgave a {
    color: white;
+   text-decoration: none;
 }
 
 #bigimage img {

@@ -56,6 +56,10 @@ padding: 10px;
    font-size: 15pt;
 }
 
+.inhoudsopgave a:hover {
+   text-decoration: underline;
+ }
+
 #bigimage img {
    width: 1020px;
    margin: 20px 10px 20px 10px;

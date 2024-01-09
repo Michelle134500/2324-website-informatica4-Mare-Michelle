@@ -138,7 +138,7 @@ body {
 
 .kop_samenvattingPreventie2 {
    width: 1000px; 
-   height: 500px; 
+   height: 520px; 
    font-family: Bitter;
    font-weight: 500; 
    font-size: 15pt; 
@@ -202,3 +202,14 @@ body {
    padding: 10px;
    clear: both;
  }
+
+
+ table {
+   border: 1px solid black;
+   border-collapse: collapse;
+   margin: 20px 10px 20px 10px;
+}
+
+td {
+   border: 1px solid black;
+}

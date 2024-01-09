@@ -121,9 +121,9 @@ body {
     width: 1300px;
     margin: auto;
  }
+ 
 
-
-.  kop_samenvattingPreventie1 {
+.kop_samenvattingPreventie1 {
    width: 1000px; 
    height: 250px; 
    font-family: Bitter;
@@ -136,7 +136,7 @@ body {
    clear: both;
  }
 
-      .kop_samenvattingPreventie2 {
+.kop_samenvattingPreventie2 {
    width: 1000px; 
    height: 90px; 
    font-family: Bitter;
@@ -150,7 +150,7 @@ body {
  }
 
 
-   .kop_samenvattingdetectie1 {
+.kop_samenvattingdetectie1 {
    width: 1000px; 
    height: 90px; 
    font-family: Bitter;
@@ -163,7 +163,7 @@ body {
    clear: both;
  }
 
-      .kop_samenvattingdetectie2 {
+.kop_samenvattingdetectie2 {
    width: 1000px; 
    height: 410px; 
    font-family: Bitter;
@@ -177,7 +177,7 @@ body {
  }
 
 
-   .kop_samenvattingRepressie_en_correctie1 {
+.kop_samenvattingRepressie_en_correctie1 {
    width: 1000px; 
    height: 120px; 
    font-family: Bitter;
@@ -190,7 +190,7 @@ body {
    clear: both;
  }
 
-    .kop_samenvattingRepressie_en_correctie2 {
+.kop_samenvattingRepressie_en_correctie2 {
    width: 1000px; 
    height: 90px; 
    font-family: Bitter;

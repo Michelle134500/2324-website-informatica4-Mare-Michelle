@@ -121,3 +121,84 @@ body {
     width: 1300px;
     margin: auto;
  }
+
+
+.  kop_samenvattingPreventie1 {
+   width: 1000px; 
+   height: 250px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+      .kop_samenvattingPreventie2 {
+   width: 1000px; 
+   height: 90px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+
+   .kop_samenvattingdetectie1 {
+   width: 1000px; 
+   height: 90px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+      .kop_samenvattingdetectie2 {
+   width: 1000px; 
+   height: 410px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+
+   .kop_samenvattingRepressie_en_correctie1 {
+   width: 1000px; 
+   height: 120px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+    .kop_samenvattingRepressie_en_correctie2 {
+   width: 1000px; 
+   height: 90px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }

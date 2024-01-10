@@ -121,8 +121,32 @@ body {
     width: 1100px;
     margin: auto;
  }
- 
-/*Ik doe later de blokken voor het kopje Authenticatie, ik heb nu geen tijd, de rest is al gedaan*/
+ .kop_samenvattingAuthenticatie1 {
+  width: 1000px; 
+  height: 220px; 
+  font-family: Bitter;
+  font-weight: 500; 
+  font-size: 15pt; 
+  background-color: #3e9194; 
+  color: #ffffff; 
+  margin: 20px 10px 20px 10px; 
+  padding: 10px;
+  clear: both;
+}
+
+.kop_samenvattingAuthenticatie2 {
+  width: 1000px; 
+  height: 190px; 
+  font-family: Bitter;
+  font-weight: 500; 
+  font-size: 15pt; 
+  background-color: #3e9194; 
+  color: #ffffff; 
+  margin: 20px 10px 20px 10px; 
+  padding: 10px;
+  clear: both;
+}
+
  .kop_samenvattingIntegriteit1 {
    width: 1000px; 
    height: 220px; 
@@ -162,9 +186,9 @@ body {
    clear: both;
  }
 
- .kop_samenvattingBeschikbaarheid2 {
+.kop_samenvattingBeschikbaarheid2 {
    width: 1000px; 
-   height: 380px; 
+   height: 300px; 
    font-family: Bitter;
    font-weight: 500; 
    font-size: 15pt; 

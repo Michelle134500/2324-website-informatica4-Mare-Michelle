@@ -104,6 +104,45 @@ padding: 10px;
    clear: both;
 }
 
+.kop_samenvattingBedreigingen{
+   width: 1000px; 
+   height: 210px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+}
+
+.kop_samenvattingAanvallers{
+   width: 1000px; 
+   height: 180px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+}
+
+.kop_samenvattingMaatregelen{
+   width: 1000px; 
+   height: 150px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+}
+
 .plaatjes_klein img {
    width: 326.5px; 
    float: left;

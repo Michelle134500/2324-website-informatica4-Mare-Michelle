@@ -160,6 +160,21 @@ body {
    clear: both;
  }
 
+ .custom-table {
+  background-color: #3e9194;
+  color: white;
+  border: 2px solid #000000;
+}
+
+.custom-table td {
+  padding: 5px;
+}
+
+.custom-table td.highlight {
+  background-color: #024565;
+  font-weight: bold;
+}
+
  .kop_samenvattingIntegriteit2 {
    width: 1000px; 
    height: 270px; 
@@ -292,7 +307,7 @@ body {
 
  .kop_samenvattingZwakhedenGebruiker2 {
    width: 1000px; 
-   height: 260px; 
+   height: 350px; 
    font-family: Bitter;
    font-weight: 500; 
    font-size: 15pt; 

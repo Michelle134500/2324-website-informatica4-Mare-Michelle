@@ -122,6 +122,239 @@ body {
     margin: auto;
  }
 
+ .kop_samenvattingIntegriteit1 {
+   width: 1000px; 
+   height: 220px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingIntegriteit2 {
+   width: 1000px; 
+   height: 270px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingBeschikbaarheid1 {
+   width: 1000px; 
+   height: 320px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingBeschikbaarheid2 {
+   width: 1000px; 
+   height: 380px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingZwakhedenArchitectuur1 {
+   width: 1000px; 
+   height: 320px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingZwakhedenArchitectuur2 {
+   width: 1000px; 
+   height: 190px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingBeschikbaarheid1 {
+   width: 1000px; 
+   height: 240px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingBeschikbaarheid2 {
+   width: 1000px; 
+   height: 260px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingZwakhedenCommunicatie1 {
+   width: 1000px; 
+   height: 190px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingZwakhedenCommunicatie2 {
+   width: 1000px; 
+   height: 240px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingZwakhedenGebruiker1 {
+   width: 1000px; 
+   height: 240px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingZwakhedenGebruiker2 {
+   width: 1000px; 
+   height: 260px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingComputervredebreuk1 {
+   width: 1000px; 
+   height: 210px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingComputervredebreuk2 {
+   width: 1000px; 
+   height: 330px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingEthischeHackers1 {
+   width: 1000px; 
+   height: 220px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingEthischeHackers2 {
+   width: 1000px; 
+   height: 150px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingZerodays1 {
+   width: 1000px; 
+   height: 180px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
+
+ .kop_samenvattingZerodays2 {
+   width: 1000px; 
+   height: 270px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 15pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+   clear: both;
+ }
 
 .kop_samenvattingPreventie1 {
    width: 1000px; 

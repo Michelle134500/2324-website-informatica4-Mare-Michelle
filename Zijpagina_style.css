@@ -495,3 +495,13 @@ td {
    font-size: 15pt;
    text-align: center;
 }
+
+.bold-word {
+  font-weight: bold;
+}
+
+.Tabeltitel {
+  text-align: center;
+  font-weight: bold;
+  background-color: #024565;
+}

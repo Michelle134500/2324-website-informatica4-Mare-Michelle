@@ -145,6 +145,7 @@ padding: 10px;
 
 .plaatjes_klein img {
    width: 326.5px; 
+   height: 190px;
    float: left;
    margin: 20px 10px 0px 10px; 
    box-sizing: border-box;

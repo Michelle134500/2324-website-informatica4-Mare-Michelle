@@ -175,6 +175,14 @@ padding: 10px;
    font-weight: bold;
 }
 
+.deelkopje_nav a:hover {
+   text-decoration: underline;
+ }
+
+ .deelkopje_navLaatste a:hover {
+   text-decoration: underline;
+ }
+
 footer {
   clear: both;
   width: 1000px; 

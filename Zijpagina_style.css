@@ -465,7 +465,7 @@ body {
 
 .kop_samenvattingRepressie_en_correctie2 {
    width: 1000px; 
-   height: 100px; 
+   height: 150px; 
    font-family: Bitter;
    font-weight: 500; 
    font-size: 15pt; 
@@ -504,4 +504,14 @@ td {
   text-align: center;
   font-weight: bold;
   background-color: #024565;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
 }

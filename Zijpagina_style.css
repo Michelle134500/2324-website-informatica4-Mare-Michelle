@@ -7,44 +7,17 @@ body {
  height: 100px ;
  font-family: Bitter ;
  font-weight: 600;
- font-size: H1 45pt;
+ font-size: 18pt;
  background-color: #24565d;
  color: #ffffff;
  margin: 10px 10px 20px 10px;
  padding: 10px;
  }
  
- .inhoudsopgave {
-    width: 240px;
-    height: 380px; 
-    font-family: Bitter;
-    font-weight: 600;
-    font-Weight: 500;
-    font-size: p 15pt;
-    background-color: #658B6F;
-    color: #ffffff;
-    margin: 20px 10px 20px 10px; 
-    padding: 10px; 
-    float: right;
-    text-align: center;
- }
- 
  #bigimage img {
     width: 1020px;
     margin: 20px 10px 20px 10px;
     box-sizing: border-box;
-  }
- 
- .samenvatting_homepage {
-    width: 1000px; 
-    height: 285px; 
-    font-family: Bitter;
-    font-weight: 500; 
-    font-size:  17pt; 
-    background-color: #3e9194; 
-    color: #ffffff; 
-    margin: 20px 10px 40px 10px;
-    padding: 10px;
   }
  
  .koptitel {
@@ -73,35 +46,8 @@ body {
     clear: both;
  }
  
- .plaatjes_klein img {
-    width: 326.5px; 
-    float: left;
-    margin: 20px 10px 0px 10px; 
-    box-sizing: border-box;
- }
- 
  .clear {
     clear: both; 
- }
- 
- .deelkopje_nav {
-    width: 326.5px; 
-    height: 187px; 
-    font-family: Bitter;
-    font-Weight: 500; 
-    font-size: 13pt; 
-    background-color: #658B6F; 
-    color: #ffffff; 
-    margin: 0px 10px 60px 10px; 
-    padding: 5px;
-    float: left;
-    box-sizing: border-box;
- }
- 
- .deelkopje_nav a {
-    text-decoration: none;
-    color: #ffffff;
-    font-weight: bold;
  }
  
  footer {
@@ -110,7 +56,7 @@ body {
    height: 75px; 
    font-family: Bitter; 
    font-weight: 500; 
-   font-size: p 17pt; 
+   font-size: 13pt; 
    background-color: #658B6F; 
    color: #ffffff; 
    margin: 20px 10px 10px 10px; 
@@ -485,15 +431,6 @@ body {
 
 td {
    border: 1px solid black;
-}
-
-.Preventietabel{
-   border: 1px solid black;
-   border-collapse: collapse;
-   margin: auto;
-   color:black;
-   font-size: 15pt;
-   text-align: center;
 }
 
 .bold-word {

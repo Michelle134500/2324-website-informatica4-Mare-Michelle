@@ -398,9 +398,9 @@ body {
  }
 
 
-.kop_samenvattingRepressie_en_correctie1 {
+.kop_samenvattingRepressie_correctie_technieken1 {
    width: 1000px; 
-   height: 130px; 
+   height: 210px; 
    font-family: Bitter;
    font-weight: 500; 
    font-size: 15pt; 
@@ -411,9 +411,9 @@ body {
    clear: both;
  }
 
-.kop_samenvattingRepressie_en_correctie2 {
+.kop_samenvattingRepressie_correctie_technieken2 {
    width: 1000px; 
-   height: 150px; 
+   height: 1270px; 
    font-family: Bitter;
    font-weight: 500; 
    font-size: 15pt; 
@@ -491,3 +491,16 @@ color: white;
   .Home a:hover {
     text-decoration: underline;
   }
+
+  .koptitel2 {
+    width: 1000px; 
+    height: 75px; 
+    font-family: Bitter; 
+    font-weight: 400; 
+    font-size: 17pt; 
+    background-color: #658B6F; 
+    color: #ffffff; 
+    margin: 20px 10px 20px 10px; 
+    padding: 10px;
+    clear: both; 
+ }

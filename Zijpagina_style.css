@@ -517,3 +517,15 @@ color: white;
     padding: 10px;
     clear: both; 
  }
+
+ .ja_nee{
+  width: 1000px; 
+   height: 150px; 
+   font-family: Bitter;
+   font-weight: 500; 
+   font-size: 13pt; 
+   background-color: #3e9194; 
+   color: #ffffff; 
+   margin: 20px 10px 20px 10px; 
+   padding: 10px;
+}
